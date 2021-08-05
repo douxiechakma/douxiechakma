@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## 🌱 I'm Douxie.
+## 🌱 I’m currently learning C++ Programming.
+
 <!--
 **douxiechakma/douxiechakma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
